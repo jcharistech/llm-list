@@ -1,0 +1,88 @@
+,Model Name,Maintainer,Size,Score,VRAM (GB),Quantized,License,Context Length,Likes,Downloads,Modified,Languages,Architectures
+0, Meta Llama 3 8B Instruct  ,meta-llama,8B,0.66,16.1,•,llama3,8192,3081,2604904,2024-05-29,en,LlamaForCausalLM
+1, Meta Llama 3 8B  ,meta-llama,8B,0.66,16.1,•,llama3,8192,5343,2056758,2024-05-13,en,LlamaForCausalLM
+2, Phi 3 Medium 4K Instruct  ,microsoft,14B,0.65,28.0,•,mit,4096,178,175833,2024-05-31,•,Phi3ForCausalLM
+3, Yi 1.5 34B Chat  ,01-ai,34B,0.64,69.2,•,apache-2.0,4096,203,13355,2024-06-26,•,LlamaForCausalLM
+4, Qwen2 72B Instruct  ,Qwen,72B,0.63,145.5,•,other,32768,555,189338,2024-06-06,en,Qwen2ForCausalLM
+5, Phi 3 Mini 128K Instruct  ,microsoft,4B,0.62,7.7,•,mit,131072,1484,2097521,2024-07-01,en,Phi3ForCausalLM
+6, Meta Llama 3 70B Instruct  ,meta-llama,70B,0.62,141.9,•,llama3,8192,1326,486777,2024-05-29,en,LlamaForCausalLM
+7, DeepSeek Coder V2 Instruct  ,deepseek-ai,236B,0.6,387.0,•,other,163840,342,11635,2024-07-03,•,DeepseekV2ForCausalLM
+8, Gemma 7B It  ,google,7B,0.59,17.1,gguf,gemma,8192,1105,387919,2024-06-27,•,GemmaForCausalLM
+9, Zephyr Orpo 141B A35b V0.1  ,HuggingFaceH4,141B,0.59,207.2,•,apache-2.0,65536,254,6111,2024-04-18,•,MixtralForCausalLM
+10, Gemma 2 9B It  ,google,9B,0.58,18.6,•,gemma,8192,261,224203,2024-07-10,•,Gemma2ForCausalLM
+11, Mistral 7B Instruct V0.3  ,mistralai,7B,0.57,14.5,•,apache-2.0,32768,824,425636,2024-07-17,•,AutoModelForCausalLM
+12, Gemma 1.1 7B It  ,google,7B,0.56,17.1,•,gemma,8192,254,66477,2024-06-27,•,GemmaForCausalLM
+13, Mixtral 8x7B Instruct V0.1  ,mistralai,47B,0.56,93.6,•,apache-2.0,32768,3978,651236,2024-07-03,"fr, it, de, es, en",MixtralForCausalLM
+14, Qwen2 7B Instruct  ,Qwen,7B,0.56,15.4,•,apache-2.0,32768,406,226458,2024-06-06,en,Qwen2ForCausalLM
+15, Nous Hermes 2 Mixtral 8x7B DPO  ,NousResearch,47B,0.55,93.6,•,apache-2.0,32768,398,63072,2024-04-30,en,MixtralForCausalLM
+16, Meta Llama 3 70B  ,meta-llama,70B,0.55,141.9,•,llama3,8192,769,174128,2024-05-13,en,LlamaForCausalLM
+17, Zephyr 7B Beta  ,HuggingFaceH4,7B,0.55,14.4,•,mit,32768,1525,245859,2024-02-29,en,MistralForCausalLM
+18, Openchat 3.5 0106  ,openchat,7B,0.54,14.4,•,apache-2.0,8192,338,142016,2024-05-18,•,MistralForCausalLM
+19, Mixtral 8x22B Instruct V0.1  ,mistralai,141B,0.54,221.4,•,apache-2.0,65536,622,47930,2024-07-03,"en, es, it, de, fr",MixtralForCausalLM
+20, OpenHermes 2.5 Mistral 7B  ,teknium,7B,0.53,14.4,•,apache-2.0,32768,796,72502,2024-02-19,en,MistralForCausalLM
+21, Gemma 2B It  ,google,2B,0.53,5.1,gguf,gemma,8192,585,698937,2024-06-27,•,GemmaForCausalLM
+22, Dbrx Instruct  ,databricks,132B,0.53,181.1,•,other,0,1090,95053,2024-04-19,•,DbrxForCausalLM
+23, Llama 2 7B Chat Hf  ,meta-llama,7B,0.53,13.5,•,llama2,4096,3693,756493,2024-04-17,en,LlamaForCausalLM
+24, Gemma 2 9B  ,google,9B,0.53,37.1,•,gemma,8192,448,61353,2024-07-10,•,Gemma2ForCausalLM
+25, Gemma 7B  ,google,7B,0.53,17.1,gguf,gemma,8192,2971,116303,2024-06-27,•,GemmaForCausalLM
+26, Internlm2 5 7B Chat  ,internlm,7B,0.53,15.4,•,other,32768,98,17508,2024-07-11,•,InternLM2ForCausalLM
+27, Qwen2 72B  ,Qwen,72B,0.52,145.5,•,other,131072,157,40358,2024-06-06,en,Qwen2ForCausalLM
+28, Phi 2  ,microsoft,3B,0.52,5.6,•,mit,2048,3204,414026,2024-04-29,en,PhiForCausalLM
+29, WizardLM 2 8x22B  ,alpindale,141B,0.52,216.8,•,apache-2.0,65536,362,109630,2024-04-16,•,MixtralForCausalLM
+30, Llama 3 8B Instruct Gradient 1048K  ,gradientai,8B,0.52,16.1,•,llama3,1048576,655,39284,2024-05-10,en,LlamaForCausalLM
+31, Openchat 3.5  ,openchat,7B,0.52,14.4,•,apache-2.0,8192,1105,10709,2024-05-18,•,MistralForCausalLM
+32, Mathstral 7B V0.1  ,mistralai,7B,0.51,29.0,•,apache-2.0,0,138,1804,2024-07-17,•,AutoModelForCausalLM
+33, Zephyr 7B Alpha  ,HuggingFaceH4,7B,0.51,14.4,•,mit,32768,1084,72008,2023-11-21,en,MistralForCausalLM
+34, Starling LM 7B Alpha  ,berkeley-nest,7B,0.51,14.4,•,apache-2.0,8192,551,28623,2024-03-20,en,MistralForCausalLM
+35, Mistral 7B Instruct V0.1  ,mistralai,7B,0.51,14.4,•,apache-2.0,32768,1471,441839,2024-07-03,•,MistralForCausalLM
+36, Phi 3 Small 8K Instruct  ,microsoft,7B,0.51,14.8,•,mit,8192,131,197619,2024-06-12,•,Phi3SmallForCausalLM
+37, Glm 4 9B Chat  ,THUDM,9B,0.51,18.7,•,other,128000,477,56457,2024-07-16,"zh, en",ChatGLMModel
+38, SOLAR 10.7B Instruct V1.0  ,upstage,11B,0.51,21.4,•,cc-by-nc-4.0,4096,600,56785,2024-04-16,en,LlamaForCausalLM
+39, Mistral 7B V0.3  ,mistralai,7B,0.51,14.5,•,apache-2.0,32768,303,238608,2024-07-08,•,MistralForCausalLM
+40, Yi 34B Chat  ,01-ai,34B,0.5,69.2,•,apache-2.0,4096,338,7779,2024-06-26,•,LlamaForCausalLM
+41, Llama 2 70B Chat Hf  ,meta-llama,70B,0.5,138.0,•,llama2,4096,2122,121652,2024-04-17,en,LlamaForCausalLM
+42, Starling LM 7B Beta  ,Nexusflow,7B,0.5,14.4,•,apache-2.0,8192,332,32394,2024-04-03,,
+43, Gemma 2 27B It  ,google,27B,0.5,54.7,•,gemma,8192,306,148028,2024-07-02,•,Gemma2ForCausalLM
+44, Qwen2 7B  ,Qwen,7B,0.5,15.4,•,apache-2.0,131072,95,129221,2024-06-06,en,Qwen2ForCausalLM
+45, Mamba Codestral 7B V0.1  ,mistralai,7B,0.49,14.6,•,apache-2.0,0,351,3,2024-07-16,•,MambaSSM
+46, Phi 3 Vision 128K Instruct  ,microsoft,4B,0.49,8.3,•,mit,131072,812,189440,2024-07-17,•,Phi3VForCausalLM
+47, Llama 2 13B Chat Hf  ,meta-llama,13B,0.49,26.0,•,llama2,4096,997,1849383,2024-04-17,en,LlamaForCausalLM
+48, DeepSeek V2 Chat 0628  ,deepseek-ai,236B,0.49,369.8,•,other,163840,93,522,2024-07-18,•,DeepseekV2ForCausalLM
+49, Hermes 2 Pro Llama 3 8B  ,NousResearch,8B,0.49,16.1,•,llama3,8192,384,29398,2024-07-18,en,LlamaForCausalLM
+50, Mistral 7B V0.1  ,mistralai,7B,0.48,14.4,•,apache-2.0,32768,3308,744888,2024-07-04,en,MistralForCausalLM
+51, L3 70B Euryale V2.1  ,Sao10K,70B,0.48,67.5,•,cc-by-nc-4.0,8192,87,1883,2024-06-14,en,LlamaForCausalLM
+52, L3 8B Stheno V3.2  ,Sao10K,8B,0.47,16.1,•,cc-by-nc-4.0,8192,174,3482,2024-06-07,en,LlamaForCausalLM
+53, Deepseek Llm 67B Chat  ,deepseek-ai,67B,0.47,135.0,•,other,4096,171,7881,2023-11-29,•,LlamaForCausalLM
+54, Hermes 2 Theta Llama 3 8B  ,NousResearch,8B,0.47,16.1,•,apache-2.0,8192,182,30736,2024-07-04,en,LlamaForCausalLM
+55, Dolphin 2.9 Llama3 8B  ,cognitivecomputations,8B,0.47,16.1,•,other,8192,376,20795,2024-05-20,•,LlamaForCausalLM
+56, Openchat 3.6 8B 20240522  ,openchat,8B,0.47,16.1,•,llama3,8192,131,121224,2024-05-28,•,LlamaForCausalLM
+57, NuminaMath 7B TIR  ,AI-MO,7B,0.46,13.9,•,apache-2.0,4096,236,1882,2024-07-19,•,LlamaForCausalLM
+58, Hermes 2 Pro Mistral 7B  ,NousResearch,7B,0.46,14.5,•,apache-2.0,32768,478,44678,2024-07-05,en,MistralForCausalLM
+59, Phi 3 Small 128K Instruct  ,microsoft,7B,0.46,14.8,•,mit,131072,143,18069,2024-06-03,•,Phi3SmallForCausalLM
+60, Gemma 2B  ,google,2B,0.46,5.1,gguf,gemma,8192,798,244359,2024-06-27,•,GemmaForCausalLM
+61, Yi 1.5 9B Chat  ,01-ai,9B,0.46,17.7,•,apache-2.0,4096,113,14857,2024-06-26,•,LlamaForCausalLM
+62, Llama 3 Instruct 8B SPPO Iter3  ,UCLA-AGI,8B,0.46,16.1,•,apache-2.0,8192,70,3635,2024-06-28,en,LlamaForCausalLM
+63, Codegeex4 All 9B  ,THUDM,9B,0.45,18.8,•,other,0,154,2793,2024-07-18,"zh, en",ChatGLMModel
+64, Gemma 1.1 2B It  ,google,2B,0.45,5.1,•,gemma,8192,131,54841,2024-06-27,,
+65, SmolLM 1.7B Instruct  ,HuggingFaceTB,2B,0.45,3.4,•,apache-2.0,2048,51,3153,2024-07-19,en,LlamaForCausalLM
+66, Gemma 2 27B  ,google,27B,0.45,108.3,•,gemma,8192,126,78658,2024-07-02,•,Gemma2ForCausalLM
+67, Llama3 ChatQA 1.5 8B  ,nvidia,8B,0.45,16.1,•,llama3,8192,519,40808,2024-05-24,en,LlamaForCausalLM
+68, Falcon 11B  ,tiiuae,11B,0.45,22.1,•,unknown,8192,192,33623,2024-05-14,"en, de, es, fr, it, nl, pl, pt, ro, cs",FalconForCausalLM
+69, Qwen1.5 110B Chat  ,Qwen,110B,0.45,158.3,•,other,32768,118,14846,2024-04-30,en,Qwen2ForCausalLM
+70, Phi 3 Medium 128K Instruct  ,microsoft,14B,0.45,28.0,•,mit,131072,336,305122,2024-05-31,•,Phi3ForCausalLM
+71, Mistral Nemo Instruct 2407 GGUF  ,second-state,•,0.45,4.8,"gguf, q2, q4_k, q5_k",apache-2.0,1024000,20,9622,2024-07-18,"en, fr, de, es, it, pt, ru, zh, ja",MistralForCausalLM
+72, Mixtral 8x7B V0.1  ,mistralai,47B,0.45,93.6,•,apache-2.0,32768,1596,48146,2024-01-21,"fr, it, de, es, en",MixtralForCausalLM
+73, Athene 70B  ,Nexusflow,70B,0.44,141.9,•,cc-by-nc-4.0,8192,46,72,2024-07-19,en,LlamaForCausalLM
+74, NeuralDaredevil 8B Abliterated  ,mlabonne,8B,0.44,16.1,•,other,8192,108,13521,2024-07-03,•,LlamaForCausalLM
+75, Qwen2 0.5B  ,Qwen,1B,0.44,1.0,•,apache-2.0,131072,56,102516,2024-06-06,en,Qwen2ForCausalLM
+76, Qwen1.5 32B Chat  ,Qwen,32B,0.44,65.5,•,other,32768,103,25641,2024-04-30,en,Qwen2ForCausalLM
+77, DeepSeek Coder V2 Lite Instruct  ,deepseek-ai,16B,0.44,31.4,•,other,163840,205,40276,2024-07-03,•,DeepseekV2ForCausalLM
+78, Dolphin 2.9.2 Qwen2 72B  ,cognitivecomputations,72B,0.44,146.0,•,other,131072,46,4567,2024-06-17,•,Qwen2ForCausalLM
+79, TinyLlama 1.1B Chat V1.0  ,TinyLlama,1B,0.44,2.2,•,apache-2.0,2048,1019,390097,2024-03-17,en,LlamaForCausalLM
+80, Qwen2 1.5B Instruct  ,Qwen,2B,0.44,3.1,•,apache-2.0,32768,66,132142,2024-06-06,en,Qwen2ForCausalLM
+81, Qwen2 0.5B Instruct  ,Qwen,1B,0.43,1.0,•,apache-2.0,32768,101,212278,2024-06-06,en,Qwen2ForCausalLM
+82, Glm 4 9B  ,THUDM,9B,0.43,18.7,•,other,7168,84,11218,2024-07-16,"zh, en",ChatGLMModel
+83, H2o Danube3 4B Chat  ,h2oai,4B,0.43,8.0,•,apache-2.0,8192,49,3296,2024-07-15,en,LlamaForCausalLM
+84, Mixtral 8x22B V0.1  ,mistralai,141B,0.43,221.6,•,apache-2.0,65536,168,7091,2024-07-04,"fr, it, de, es, en",MixtralForCausalLM
+85, Llama3 8B Chinese Chat  ,shenzhi-wang,8B,0.43,16.1,•,llama3,8192,613,14899,2024-07-04,"en, zh",LlamaForCausalLM
+86, Llama 3 Refueled  ,refuelai,8B,0.43,16.1,•,cc-by-nc-4.0,8192,185,1591,2024-05-09,,
